@@ -1,85 +1,136 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Adhithya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+for+the+Web+%F0%9F%8C%90;Securing+Systems+%F0%9F%9B%A1%EF%B8%8F;Web+Dev+%2B+Cyber+Security+%3D+Me" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=AdhiHub&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td>
-
-### 🙋‍♂️ About Me
-
-I'm someone who lives at the intersection of **building** and **breaking** — crafting clean web experiences on one side, and probing systems for security holes on the other.
-
-- 🌐 **Web Development** — building fast, functional, good-looking sites & apps
-- 🛡️ **Cyber Security** — pentesting, encryption, and security automation
-- 🌱 Constantly learning new tools, frameworks & attack/defense techniques
-- ⚡ Fueled by coffee and curiosity
-
-</td>
-</tr>
-</table>
-
-<br/>
+<!-- ═══════════════════ HERO SECTION ═══════════════════ -->
 
 <div align="center">
 
-### 💬 Quote of the Day
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4FF,100:7C3AED" width="100%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day"/>
+<br/>
+
+# ADHITHYA
+
+### `Web Developer` · `Cybersecurity Enthusiast`
+
+**Building the web. Understanding security. Creating with purpose.**
+
+<br/>
+
+<a href="https://github.com/AdhiHub">
+  <img src="https://img.shields.io/badge/GitHub-AdhiHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=AdhiHub&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Crafting+modern+web+experiences.;Exploring+cybersecurity+and+defense.;Learning.+Building.+Improving.;Turning+ideas+into+working+projects." alt="Typing introduction"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+
+## `01` — About Me
+
+<img align="right" width="170" src="https://github.com/AdhiHub.png" alt="AdhiHub profile avatar"/>
+
+Hey! I'm **Adhithya**, a developer interested in the intersection of web technologies and cybersecurity.
+
+I enjoy exploring how applications work, building useful digital experiences, and learning how to make systems more secure.
+
+- 🌐 **Web Development** — modern websites and applications
+- 🛡️ **Cybersecurity** — security fundamentals and defensive thinking
+- 🐍 **Programming** — writing code and solving problems
+- 🚀 **Growth** — learning new technologies through hands-on projects
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════ TECHNOLOGIES ═══════════════════ -->
+
+## `02` — Tech Stack
 
 <div align="center">
 
-### 🛠️ Tech Stack
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,express,html,css,linux,git,github,bash,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Programming languages"/>
+
+<br/>
+
+**BACKEND & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,linux,git,github,vscode,figma" alt="Backend and developer tools"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
+## `03` — GitHub Analytics
 
 <div align="center">
 
-### 📊 GitHub Stats
+<a href="https://github.com/AdhiHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhiHub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" height="170" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/AdhiHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhiHub&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="170" alt="Most used languages"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdhiHub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" alt="AdhiHub's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhiHub&theme=tokyonight&hide_border=true&border_radius=10" alt="AdhiHub's streak" height="165"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhiHub&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=AdhiHub&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════ ACTIVITY ═══════════════════ -->
+
+## `04` — Contribution Activity
 
 <div align="center">
 
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhiHub&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhiHub&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=818CF8&area=true&area_color=1D3557&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
+
+## `05` — Currently Exploring
 
 <div align="center">
 
-<details>
-<summary>✨ Fun fact</summary>
-<br/>
-I turn coffee into code and vulnerabilities into patches. ☕➡️💻➡️🔒
-</details>
+| 🌐 Web | 🛡️ Security | ⚙️ Development |
+|:---:|:---:|:---:|
+| Modern interfaces | Security fundamentals | Better code quality |
+| Backend development | Secure applications | Practical projects |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" width="100%"/>
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<div align="center">
+
+### `Build • Learn • Secure • Repeat`
+
+*Curiosity drives the code. Consistency builds the craft.*
+
+<br/>
+
+<a href="https://github.com/AdhiHub?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00D4FF,100:7C3AED" width="100%"/>
+
+</div>
